@@ -1,0 +1,78 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/eric/GitHub/AMdemod/IP/SerialFIR
+vParallelFIR
+!s110 1441592690
+!i10b 1
+!s100 cSGP__Y34E?RQggcC^_m43
+I:GeFgITc<NAin0WG4g_N51
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 d/home/eric/GitHub/SerialFIR
+Z2 w1441575296
+8/home/eric/GitHub/SerialFIR/ParallelFIR.v
+F/home/eric/GitHub/SerialFIR/ParallelFIR.v
+Z3 Fcoeff.vh
+L0 6
+Z4 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1441592690.327324
+!s107 coeff.vh|/home/eric/GitHub/SerialFIR/ParallelFIR.v|
+!s90 -##implicit##push_minusfile_path##|/home/eric/GitHub/AMdemod/IP/SerialFIR/vlog.opt|+incdir+/home/eric/GitHub/AMdemod/IP/SerialFIR|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|/home/eric/GitHub/SerialFIR/ParallelFIR.v|
+!i113 1
+Z5 o-work work
+Z6 !s92 +incdir+/home/eric/GitHub/AMdemod/IP/SerialFIR -work work
+n@parallel@f@i@r
+vSerialFIR
+!s110 1441592692
+!i10b 1
+!s100 i4AaNn^YMSgO_Za3F1z;I3
+IM0HEN7@VAO?Y@F<Q[SM1>3
+R0
+R1
+w1441581329
+8/home/eric/GitHub/SerialFIR/SerialFIR.v
+F/home/eric/GitHub/SerialFIR/SerialFIR.v
+R3
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1441592692.203935
+!s107 coeff.vh|/home/eric/GitHub/SerialFIR/SerialFIR.v|
+!s90 -##implicit##push_minusfile_path##|/home/eric/GitHub/AMdemod/IP/SerialFIR/vlog.opt|+incdir+/home/eric/GitHub/AMdemod/IP/SerialFIR|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|/home/eric/GitHub/SerialFIR/SerialFIR.v|
+!i113 1
+R5
+R6
+n@serial@f@i@r
+vSerialFIR_tb
+!s110 1441592694
+!i10b 1
+!s100 b1b1<d9zVnjFc]]73HS2J1
+IjNohMn7JKkUjz5JR7oOjD0
+R0
+R1
+R2
+8/home/eric/GitHub/SerialFIR/SerialFIR_tb.v
+F/home/eric/GitHub/SerialFIR/SerialFIR_tb.v
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1441592694.358658
+!s107 /home/eric/GitHub/SerialFIR/SerialFIR_tb.v|
+!s90 -##implicit##push_minusfile_path##|/home/eric/GitHub/AMdemod/IP/SerialFIR/vlog.opt|+incdir+/home/eric/GitHub/AMdemod/IP/SerialFIR|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|/home/eric/GitHub/SerialFIR/SerialFIR_tb.v|
+!i113 1
+R5
+R6
+n@serial@f@i@r_tb
